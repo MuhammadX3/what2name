@@ -60,3 +60,11 @@ function validateForm() {
     return false;
   }
 }
+
+/* DOM CSS */
+
+/* DOM Animations */
+
+/* DOM Events */
+
+/* DOM Event Listener */
